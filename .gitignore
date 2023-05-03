@@ -1,0 +1,5 @@
+.cache/
+build/
+obj/
+md2a
+compile_commands.json
